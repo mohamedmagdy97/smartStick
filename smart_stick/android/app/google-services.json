@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327623229706",
+    "project_id": "smart-stick-424b6",
+    "storage_bucket": "smart-stick-424b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327623229706:android:9eb31b3abb94087b0c3af3",
+        "android_client_info": {
+          "package_name": "com.magdy.smart_stick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327623229706-jnq57np82c90dvhrctkabk0robrrek0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magdy.smart_stick",
+            "certificate_hash": "6d18b5bf2d0a2fb3689f9e413987f3a50fa71b74"
+          }
+        },
+        {
+          "client_id": "327623229706-masu8b7hoc4kjo0hprq2cpl07urr0d2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAziqYayK6XyObzFekvFF3ZDb86F3mqnA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327623229706-masu8b7hoc4kjo0hprq2cpl07urr0d2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
